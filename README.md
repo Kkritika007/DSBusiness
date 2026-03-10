@@ -37,7 +37,7 @@ ds-lumping-services/
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/ds-lumping-services.git
+git clone [https://github.com/yourusername/ds-lumping-services.git](https://github.com/Kkritika007/DSBusiness.git)
 ```
 
 2. Open the project folder.
